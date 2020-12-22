@@ -1,4 +1,6 @@
 OLIDv1.0
+fastText
+*.bin
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
