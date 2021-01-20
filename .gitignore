@@ -1,5 +1,6 @@
 OLIDv1.0
 fastText
+wiki-news-300d-1M-subword.vec
 *.bin
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -133,3 +134,5 @@ dmypy.json
 *.ftz
 tweets.dev
 tweets.train
+data/tweets.adv.dev
+data/tweets.adv.train
